@@ -8,8 +8,22 @@ Título
 
 # Paragrafos
 
-fndsjhbfsjdgbfhjsbfhdjsbfhsdjfsdbhjsvdbhjfdjfghjsdgbfhsdgbhfjsbfshu  fsdnhjfshgdjkfgsdhjfgsdfgshdfhsdjkhfsd
+fndsjhbfsjdgbfhjsbfhdjsbfhsdjfsdbhjsvdbhjfdjfghjsdgbfhsdgbhfjsbfshu  
 
-sbdfhjsdbfjsdjgfsdjkfhsdjk
+## NEGRITO E ITÁLICO
+_**nds**_ knfjdsklnfsd
 
-Para espaçamento maior, 2 enters e, para quebrar linha, dois espaços.
+## NEGRITO
+**nds** knfjdsklnfsd
+
+## ITÁLICO
+_OLA_
+
+## RISCADO
+~~OLAMUNDO~~
+
+
+## CITAÇÃO
+> PALAVRAS NÃO BASTAM
+
+
