@@ -14,7 +14,7 @@ fndsjhbfsjdgbfhjsbfhdjsbfhsdjfsdbhjsvdbhjfdjfghjsdgbfhsdgbhfjsbfshu
 _**nds**_ knfjdsklnfsd
 
 ## NEGRITO
-**nds** knfjdsklnfsd
+**nds** knfjds __kl__ nfsd
 
 ## ITÁLICO
 _OLA_
@@ -25,5 +25,11 @@ _OLA_
 
 ## CITAÇÃO
 > PALAVRAS NÃO BASTAM
+
+## Linhas horizontais
+***
+ou
+
+---
 
 
