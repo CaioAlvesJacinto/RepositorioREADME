@@ -101,3 +101,20 @@ System.out.println("Eu amo você!");
 ```
 
 ``const message = `My name is ${name}`;``
+
+---
+
+# GITHUB
+
+### Listas
+[X] item1  
+[] item2  
+[] item3  
+
+`// cria um check`
+
+`Colocar um # já abre opções para os Pull Requests`
+
+:smile:
+
+# Caio Alves Jacinto
