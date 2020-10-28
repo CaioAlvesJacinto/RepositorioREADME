@@ -10,30 +10,30 @@ Título
 
 fndsjhbfsjdgbfhjsbfhdjsbfhsdjfsdbhjsvdbhjfdjfghjsdgbfhsdgbhfjsbfshu  
 
-## NEGRITO E ITÁLICO
+# NEGRITO E ITÁLICO
 _**nds**_ knfjdsklnfsd
 
-## NEGRITO
+# NEGRITO
 **nds** knfjds __kl__ nfsd
 
-## ITÁLICO
+# ITÁLICO
 _OLA_
 
-## RISCADO
+# RISCADO
 ~~OLAMUNDO~~
 
 
-## CITAÇÃO
+# CITAÇÃO
 > PALAVRAS NÃO BASTAM
 
-## Linhas horizontais
+# Linhas horizontais
 ***
 ou
 
 ---
 
 
-## Listas não ordenadas
+# Listas não ordenadas
 
 * item1
 
@@ -43,7 +43,7 @@ ou
 
 * item3
 
-## Listas ordenadas
+# Listas ordenadas
 
 1. item1
 1. item2
@@ -54,7 +54,7 @@ ou
 2014\. Alemanha
 
 
-## Links
+# Links
 
 [Clique aqui](https://facebook.com.br "Entre no facebook!")
 
@@ -63,7 +63,7 @@ ou
 
 [site-url]:https://github.com/CaioAlvesJacinto
 
-## Imagens
+# Imagens
 
 ![Markdown]()
 
@@ -74,8 +74,30 @@ ou
 [![Markdown]()]
 ()
 
-## Tabelas
+# Tabelas
 
 | Nome | Idade | Profissão |
 |:------|:-------:| ------:|
 |Caio  |  19   | Estagiário |
+
+# Bloco de códigos
+
+`System.out.println("Olá, mundo!");`
+
+    System.out.println("Olá, mundo!");
+    System.out.println("Você está bem?");
+    System.out.println("Eu amo você!");
+
+```
+System.out.println("Olá, mundo!");
+System.out.println("Você está bem?");
+System.out.println("Eu amo você!");
+```
+
+```java
+System.out.println("Olá, mundo!");
+System.out.println("Você está bem?");
+System.out.println("Eu amo você!");
+```
+
+``const message = `My name is ${name}`;``
